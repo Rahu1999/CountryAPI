@@ -1,4 +1,4 @@
 # CountriesInfo
-This is basic Rest Api application which contains information about countries. I used Volley library with nested json parsing. Also I used Room Persistence Library for geting data when offline.<br>
+This is basic Rest Api application which contains information about countries. .<br>
 <b>Screnshot</b><br>
-<img src="images/ss1.jpeg" height="600" width="400">
+<img src="images/img1.JPG" height="600" width="400">
